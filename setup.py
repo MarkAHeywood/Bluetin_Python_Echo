@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Bluetin_Echo',
-    version='0.1.1',
+    version='0.2.0',
     packages = find_packages(),
     description='Raspberry Pi Python Library for Ultrasonic Module HC-SR04 Distance Measuring Transducer.',
     long_description=open('README.rst').read(),

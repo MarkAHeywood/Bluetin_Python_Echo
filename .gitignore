@@ -3,3 +3,5 @@ build
 *.egg-info
 *.pyc
 setuptools-*
+.DS_Store
+.Project
