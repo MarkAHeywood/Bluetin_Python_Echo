@@ -7,10 +7,10 @@ Find the details about connecting the sensor and installing the library can be f
 
 ## Installing
 
-At the command prompt in the Raspberry Pi Terminal, execute one of the following:
+- At the command prompt in the Raspberry Pi Terminal, execute one of the following:
 
-pip3 install Bluetin_Echo
+      pip3 install Bluetin_Echo
+      
+    or
 
-or
-
-pip3 install --upgrade Bluetin_Echo
+      pip3 install --upgrade Bluetin_Echo
